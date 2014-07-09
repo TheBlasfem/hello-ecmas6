@@ -7,5 +7,6 @@ For start run:
 	
 	bower install
 	npm install
+	node app
 
 Go to localhost:3000, now you can edit your main.js =) 
